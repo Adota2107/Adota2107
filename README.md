@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Adota2107
+- 👍 My name is Do Nhat Minh
+- ✍️ Studying and research at FPT University
 - 👀 I’m interested in Web3 and Blockchain
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
